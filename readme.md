@@ -1,0 +1,1 @@
+This is just a simple function that can reverse a string that is passed on the parameter.
