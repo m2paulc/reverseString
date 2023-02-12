@@ -4,7 +4,7 @@
   "description": "reverses strings and test with jest.",
   "main": "reverseString.js",
   "dependencies": {
-    "jest": "^24.9.0"
+    "jest": "^29.4.2"
   },
   "devDependencies": {},
   "scripts": {
